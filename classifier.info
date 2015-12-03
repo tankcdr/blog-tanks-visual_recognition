@@ -1,0 +1,19 @@
+{
+  "name" : "m1",
+  "classifier_id" : "m1_510754976",
+  "created" : "2015-12-03T02:03:34.000Z",
+  "owner" : "9ba87fb4-b423-4b86-a27f-052aa0ebb372-us-south"
+}
+
+{
+  "name" : "m1",
+  "classifier_id" : "m1_591027136",
+  "created" : "2015-12-03T17:25:50.000Z",
+  "owner" : "9ba87fb4-b423-4b86-a27f-052aa0ebb372-us-south"
+}
+{
+  "name" : "chief",
+  "classifier_id" : "chief_1987416538",
+  "created" : "2015-12-03T17:27:23.000Z",
+  "owner" : "9ba87fb4-b423-4b86-a27f-052aa0ebb372-us-south"
+}
